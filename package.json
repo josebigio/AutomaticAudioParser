@@ -14,6 +14,12 @@
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-es2015": "^6.24.1",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.2",
+    "aws-sdk": "^2.377.0",
+    "limiter": "^1.1.3"
+  },
+  "dependencies": {
+    "rxjs": "^6.3.3",
+    "rxjs-compat": "^6.3.3"
   }
 }
